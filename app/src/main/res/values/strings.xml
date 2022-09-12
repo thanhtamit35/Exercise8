@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ex8</string>
+    <string name="add_new">thêm mới</string>
+    <string name="print_list">in danh sách</string>
+    <string name="female">Nữ</string>
+    <string name="male">Nam</string>
+    <string name="gender">Giới tính:</string>
+    <string name="fullname">Họ và tên:</string>
+    <string name="address">Địa chỉ:</string>
+    <string name="list">Danh sách nhân viên</string>
+</resources>
